@@ -41,3 +41,8 @@
 - 개발 / 운영 환경 나누기 
 - 도커 컨테이너 활용 
 - 무중단 배포 구현 (blue/green) 
+
+# repository
+- [A팀](https://github.com/boostcamp-2020/Project12-A-Slack-Web)
+- [B팀](https://github.com/boostcamp-2020/Project12-B-Slack-Web)
+- [C팀](https://github.com/boostcamp-2020/Project12-C-Slack-Web)
